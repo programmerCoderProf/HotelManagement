@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  HotelManagment.cpp
+D:\مجلدات سطح المكتب\مشاريع الفريق\مشروع HotelManagment 250SR\HotelManagment\HotelManagment\HotelManagment.cpp(93): warning C4717: 'list': recursive on all control paths, function will cause runtime stack overflow
+  HotelManagment.vcxproj -> D:\مجلدات سطح المكتب\مشاريع الفريق\مشروع HotelManagment 250SR\HotelManagment\Debug\HotelManagment.exe
